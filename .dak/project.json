@@ -1,0 +1,10 @@
+{
+  "dak_schema": 1,
+  "project_id": "d57a8180-d7c1-461e-972e-f4778432eba3",
+  "name": "maze-agent-harness",
+  "slug": "maze-agent-harness",
+  "prefix": "MAZE",
+  "created_utc": "2026-11-24T11:04:34Z",
+  "scaffold_kit_version": "4.4.1",
+  "ports": { "frontend": 3100, "backend": 8101, "db": 5432 }
+}
